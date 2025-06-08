@@ -1,0 +1,9 @@
+filename,model,seconds
+recognized_small_20m20s.txt,mbart50,105.75370931625366
+recognized_small_20m20s.txt,ruT5,33.616750955581665
+recognized_medium_24m15s.txt,mbart50,77.36436367034912
+recognized_medium_24m15s.txt,ruT5,22.00950860977173
+recognized_large_33m5s.txt,mbart50,81.89298558235168
+recognized_large_33m5s.txt,ruT5,31.794240713119507
+recognized_tiny_14m19s.txt,mbart50,174.07200598716736
+recognized_tiny_14m19s.txt,ruT5,74.7703697681427
